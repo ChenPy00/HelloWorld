@@ -34,7 +34,7 @@ git commit -m "first commit"
 
 4. Replace branch name
 
-​	Master is the default name in Git, while main is the default name in GitHub. Therefore, if you want to replace the branch name, please follow the below:
+   Master is the default name in Git, while main is the default name in GitHub. Therefore, if you want to replace the branch name, please follow the below:
 
 ```
 git branch -m master main
