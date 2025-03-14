@@ -8,7 +8,7 @@ As a record of the first code upload to GitHub.
 
 2. Please ensure that you can connect to GitHub normally and use the instruction
 
-`ssh -T git@github.com`
+    `ssh -T git@github.com`
 
 ## Upload instructions
 
